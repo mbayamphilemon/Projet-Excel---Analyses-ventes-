@@ -29,7 +29,8 @@ les plus performants.
 
 ## 📈 Dashboard
 
-[Image du dashboard]
+<img width="697" height="406" alt="DASHBOARD" src="https://github.com/user-attachments/assets/61058489-4f9b-4899-8b29-2372a46719df" />
+
 
 ## 🔎 Principaux insights
 
