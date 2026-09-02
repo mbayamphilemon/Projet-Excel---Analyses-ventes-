@@ -34,12 +34,13 @@ les plus performants.
 
 ## 🔎 Principaux insights
 
-...
-
-## 📂 Structure du projet
-
-...
-
+• Chiffre d'affaires
+• Marge
+• Taux de marge
+• Nombre de commandes
+• Nombre de clients
+• Quantité vendue
+• Panier moyen
 ## 👤 Auteur
 
 MBAYAM GUELBE PHILEMON
